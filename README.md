@@ -1226,3 +1226,4 @@ MIT licensed
 
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
 # presentation
+# kariera_it_prezentacja_rozmowy_kawlifikacyje
